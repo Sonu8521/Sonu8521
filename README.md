@@ -27,7 +27,7 @@
 
 ![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu8521&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRizvi786&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu8521&theme=dark)
 
 
 <br>
