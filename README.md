@@ -1,8 +1,8 @@
 
- <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
+ <h1 align="center">Hi 👋, I'm Sonu.</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning more
+- 🌱 I’m currently learning more..
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: sy199733@gmail.com
   
